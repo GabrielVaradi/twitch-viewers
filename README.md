@@ -2,13 +2,14 @@
 
 For this project, you will be fetching and displaying data from the Twitch API.
 You can find the documentation for the Twitch API [here](https://dev.twitch.tv/docs/api)
-Please note that in order to access the twitch API you'll have to create a Twitch account.
+
+> Please note that in order to access the twitch API you'll have to create a Twitch account.
 
 **Objective**
 
 Your goal will be to build a simple web dashboard with the following 2 features:
 
-You will need to create a Web Socket connection to display the number of viewers for Chess that automatically updates a counter in real time (keep in mind the request throttling limit of the Twitch API).
+You will need to create a Web Socket connection to display the number of viewers for Chess that automatically updates a counter in real time (*keep in mind the request throttling limit of the Twitch API*).
 
 We would like a line Chart that compares in real time the number of viewers for the following 3 games:
 
