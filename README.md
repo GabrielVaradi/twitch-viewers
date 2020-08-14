@@ -15,10 +15,12 @@ We would like a line Chart that compares in real time the number of viewers for 
 - Dota 2 https://www.twitch.tv/directory/game/Dota%202
 
 **Technology**
+
 Frontend: Javascript
 Backend: Javascript
 
 **Rules**
+
 The project should not take more than 1 week.
 To submit your project, please push the code in this repository (You'll have access to this repository for a week).
 Also, please have the project hosted online using a service such as Heroku and provide us with the link.
