@@ -9,7 +9,7 @@ You can find the documentation for the Twitch API [here](https://dev.twitch.tv/d
 
 Your goal will be to build a simple web dashboard with the following 2 features:
 
-You will need to create a Web Socket connection to display the number of viewers for Chess that automatically updates a counter in real time (*keep in mind the request throttling limit of the Twitch API*).
+You will need to create a Web Socket connection to display the number of viewers for Chess (https://www.twitch.tv/directory/game/Chess) that automatically updates a counter in real time (*keep in mind the request throttling limit of the Twitch API*).
 
 We would like a line Chart that compares in real time the number of viewers for the following 3 games:
 
@@ -33,7 +33,6 @@ We would like a line Chart that compares in real time the number of viewers for 
 
 - Document your API design (routes + payload)
 - Document your code only if needed
-- Document the steps required to run your project or to run tests
-- Use Markdown to share your documentation inside this code repository
+- Don't forget to update your README.md with the steps required to run your project and tests (if any)
 
 Bon courage !
