@@ -19,6 +19,8 @@ We would like a line Chart that compares in real time the number of viewers for 
 
 **Technology**
 
+You are free to use one or more frameworks or libraries of your choice and will not be penalized for that as long as you can explain it.
+
 - Frontend: Javascript
 - Backend: Javascript
 
