@@ -1,40 +1,17 @@
-# Atecna - Test Developer Web Fullstack JS
+# Description
 
-For this project, you will be fetching and displaying data from the Twitch API.
-You can find the documentation for the Twitch API [here](https://dev.twitch.tv/docs/api)
+A simple app using React, Express and the Twitch Api to display in real-time the current amount of viewers of a few twitch games
 
-> Please note that in order to access the twitch API you'll have to create a Twitch account.
+# Get started!
 
-**Objective**
+- Clone the project from branch "deploy" in a repository
+- In the root directory, run : npm install
+- Navigate to /Client and run: npm install
+- In the root directory, run : npm start
+- Go to localhost:3001
 
-Your goal will be to build a simple web dashboard with the following 2 features:
 
-You will need to create a Web Socket connection to display the number of viewers for Chess (https://www.twitch.tv/directory/game/Chess) that automatically updates a counter in real time (*keep in mind the request throttling limit of the Twitch API*).
+# Visit the app!
 
-We would like a line Chart that compares in real time the number of viewers for the following 3 games:
+https://stark-coast-21384.herokuapp.com/
 
-- Hearthstone https://www.twitch.tv/directory/game/Hearthstone
-- Rocket League https://www.twitch.tv/directory/game/Rocket%20League
-- Dota 2 https://www.twitch.tv/directory/game/Dota%202
-
-**Technology**
-
-You are free to use one or more frameworks or libraries of your choice and will not be penalized for that as long as you can explain it.
-
-- Frontend: Javascript
-- Backend: Javascript
-
-**Rules**
-
-- The project should not take more than 1 week.
-- To submit your project, please push the code in this repository (You'll have access to this repository for a week).
-- Also, please have the project hosted online using a service such as Heroku and provide us with the link.
-- You are encouraged to submit all of your work at the end of the 1 week period even if it is not complete.
-
-**Important**
-
-- Document your API design (routes + payload)
-- Document your code only if needed
-- Don't forget to update your README.md with the steps required to run your project and tests (if any)
-
-Bon courage !
